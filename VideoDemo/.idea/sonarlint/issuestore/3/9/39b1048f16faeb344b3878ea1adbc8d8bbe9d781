@@ -1,0 +1,11 @@
+
+Š"squid:ClassVariableVisibilityCheck"RMake output a static final constant or non-public and provide accessors if needed.(ŸéŒÿÿÿÿÿ8İéÇ¨Œ,
+{squid:S3008"ZRename this field "ActivityContext" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ã©ãûÿÿÿÿ8İéÇ¨Œ,
+Rsquid:S2696"6Make the enclosing method "static" or remove this set.(Ø¬Üò8İéÇ¨Œ,
+Psquid:S1066"/Merge this if statement with the enclosing one.(Çü»ßûÿÿÿÿ8İéÇ¨Œ,
+Vsquid:S1444"5Make this "public static ActivityContext" field final(˜Ã©ãûÿÿÿÿ8İéÇ¨Œ,
+Msquid:S1444",Make this "public static output" field final(ŸéŒÿÿÿÿÿ8İéÇ¨Œ,
+“"squid:ClassVariableVisibilityCheck"[Make ActivityContext a static final constant or non-public and provide accessors if needed.(˜Ã©ãûÿÿÿÿ8İéÇ¨Œ,
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(°Ş§ ıÿÿÿÿ8İéÇ¨Œ,
+‹squid:S1192"jDefine a constant instead of duplicating this literal "Failed to create directory MyCameraVideo." 3 times.(óöêÓúÿÿÿÿ8İéÇ¨Œ,
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(¡Œé8§œá¨Œ,

@@ -1,0 +1,12 @@
+
+jsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž8×¨»¦Œ,
+vsquid:S1450"\Remove the "cameraPreview" field and declare it as a local variable in the relevant methods.(Çßâëüÿÿÿÿ
+Vsquid:S1161":Add the "@Override" annotation above this method signature(öÿÕÅ8×¨»¦Œ,
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ðÈ€¹ûÿÿÿÿ
+Usquid:S1126"AReplace this if-then-else statement by a single return statement.(µ†Êu
+Dsquid:S1659"*Declare "switchCamera" on a separate line.(Ð»çŸþÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ðûèô
+psquid:S1450"VRemove the "capture" field and declare it as a local variable in the relevant methods.(Ð»çŸþÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ðûèô
+Ysquid:S3398"?Move this method into the anonymous class declared at line 167.(âÿÞòÿÿÿÿÿ
+Zsquid:S2147"ECombine this catch with the one at line 226, which has the same body.(ï­£Ä

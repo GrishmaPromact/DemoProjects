@@ -1,0 +1,24 @@
+
+_squid:S3027"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(ŞÿÕš
+[squid:S1192"FDefine a constant instead of duplicating this literal "Hello" 4 times.(ğ¾Î
+Esquid:S2095"+Close this "ZipFile" in a "finally" clause.(¡‘¿Éüÿÿÿÿ
+Nsquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(Ë¢ÂØùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œ´ñ¶ıÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”æ»ùÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(úÃÆ¶
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(å°«±
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¾ÿ¾
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(É¹«ò
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò¦Øı
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+hsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(Ø›üÌøÿÿÿÿ

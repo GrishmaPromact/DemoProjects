@@ -1,0 +1,39 @@
+
+Msquid:UnusedPrivateMethod"*Remove this unused private "unzip" method.(‰„‰µ
+_squid:S3027"JPut single-quotes around '/' to use the faster "lastIndexOf(char)" method.(ŞÿÕš
+:squid:S1659" Declare "iv" on a separate line.(‚µá²ıÿÿÿÿ
+dsquid:S1192"JDefine a constant instead of duplicating this literal "peace.zip" 3 times.(¹ˆ˜¾úÿÿÿÿ
+Csquid:S1068"/Remove this unused "BUFFER_SIZE" private field.(ü£¸.
+Msquid:S2095"3Close this "FileInputStream" in a "finally" clause.(Åò¡œøÿÿÿÿ
+Nsquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(Ÿ½ëàşÿÿÿÿ
+Nsquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(Ë¢ÂØùÿÿÿÿ
+Nsquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(œÍåıÿÿÿÿ
+Esquid:S2095"+Close this "ZipFile" in a "finally" clause.(¡‘¿Éüÿÿÿÿ
+Hsquid:S2095"3Close this "FileInputStream" in a "finally" clause.(§ÕÃ½
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ß¿ê¦øÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(úÃÆ¶
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷ÎÑÒÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞßÀŠüÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(å°«±
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¾ÿ¾
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(É¹«ò
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ò¦Øı
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ Î
+Osquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+dsquid:S2674"JCheck the return value of the "read" call to see how many bytes were read.(çôœ‚şÿÿÿÿ
+asquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(”è½øÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ˆ±õë

@@ -1,0 +1,34 @@
+
+Msquid:S2095"3Close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ
+Nsquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(Ÿ½ëàþÿÿÿÿ
+Msquid:S2095"3Close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ
+Nsquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(Ÿ½ëàþÿÿÿÿ
+_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜¢ô 
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒÁÚÎ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒÁÚÎ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Lsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+<squid:S1481"'Remove this unused "tv" local variable.(±ÁíÊ
+lsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ž¨Œþÿÿÿÿ
+Ksquid:S1854"6Remove this useless assignment to local variable "tv".(±ÁíÊ
+Xsquid:S2147"DCombine this catch with the one at line 44, which has the same body.(ÿÒ„p
+Ysquid:S2147"DCombine this catch with the one at line 44, which has the same body.(Ë‡…¨
+Ysquid:S2147"DCombine this catch with the one at line 44, which has the same body.(ï­£Ä
+Xsquid:S2147"DCombine this catch with the one at line 67, which has the same body.(ÿÒ„p
+Ysquid:S2147"DCombine this catch with the one at line 67, which has the same body.(Ë‡…¨
+Ysquid:S2147"DCombine this catch with the one at line 67, which has the same body.(ï­£Ä
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(²Ú±Ž

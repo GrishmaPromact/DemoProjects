@@ -1,0 +1,7 @@
+
+Dsquid:S1905"*Remove this unnecessary cast to "Toolbar".(ªü–ıÿÿÿÿ
+Ksquid:S1905"7Remove this unnecessary cast to "FloatingActionButton".(–“€G
+•squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍÏ×]
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ²çáşÿÿÿÿ
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(à²ÚĞ
+hsquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(åÌÁÄÿÿÿÿÿ

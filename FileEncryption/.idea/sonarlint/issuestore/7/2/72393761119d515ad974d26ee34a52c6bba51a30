@@ -1,0 +1,6 @@
+
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À÷‰×şÿÿÿÿ8Æ¿êÒ¨,
+Usquid:S2095"4Close this "FileOutputStream" in a "finally" clause.(Ã¦Èöÿÿÿÿÿ8Å¿êÒ¨,
+usquid:S00116"SRename this field "_zipFile" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™­øÿÿÿÿ8Æ¿êÒ¨,
+vsquid:S00116"TRename this field "_location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÂŠ‹ùÿÿÿÿ8Æ¿êÒ¨,
+Osquid:S2095"3Close this "FileInputStream" in a "finally" clause.(‡Õ´ï8îÙëÒ¨,
